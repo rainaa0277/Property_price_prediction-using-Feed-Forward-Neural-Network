@@ -1,4 +1,4 @@
-# Property_price_prediction-using-Feed-Forward-Neural-Netork
+# Property_price_prediction-using-Feed-Forward-Neural-Network
 
 This model is created for practice purpose only.
 
